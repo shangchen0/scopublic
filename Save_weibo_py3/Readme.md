@@ -11,4 +11,11 @@
  2.[点击去下载ChromeDriver](https://npm.taobao.org/mirrors/chromedriver/)  打开此链接后找到和谷歌浏览器一样版本的链接 **若没有一样的版本 请选择相近的版本**  
  3.打开chromedriver_win32.zip压缩包将chromedriver.exe解压到Python3目录即可  Python3目录一般为**C:\Users\电脑用户名\AppData\Local\Programs\Python\你的python版本号\**
 
-<a name='123'>aa</a>
+完成以上步骤即可使用 [点我下载微博保存.Py](https://eastifs.wzey.cn/prm_public/SaveAllWeibo.pyc.zip)
+关于 **微博保存程序压缩包**
+**test.pyc是测试文件 请先打开此文件测试 测试通过即可打开weibo-res.pyc来保存微博内容**
+
+程序介绍：输入微博ID自动下载全部微博内容并保存到本地
+---
+如何获得微博ID？
+![如何查看微博ID](http://img0.imgtn.bdimg.com/it/u=1913214116,3912663704&fm=26&gp=0.jpg)
