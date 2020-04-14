@@ -18,4 +18,4 @@
 程序介绍：输入微博ID自动下载全部微博内容并保存到本地
 ---
 如何获得微博ID？
-![如何查看微博ID](http://img0.imgtn.bdimg.com/it/u=1913214116,3912663704&fm=26&gp=0.jpg)
+![如何查看微博ID](https://github.com/shangchen0/scopublic/blob/master/Save_weibo_py3/getweiboid.png)
